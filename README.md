@@ -1,5 +1,5 @@
 - 👋 oie, me chamo Emilly
-- 🌱 I’m currently learning python
+- 🌱 eu estou aprendendo python
 - 📫 How to reach me emillyanjos3588@gmail.com
 
 <!---
